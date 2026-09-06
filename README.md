@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="saksim — Quantitative systems, secure delivery and AI engineering / 量化系统、安全交付与 AI 工程。2026-04-15 to 2026-09-05 UTC: 5,005 commits, 387 PRs opened, 86 Releases, 143 of 144 days with commits / 提交、创建 PR、发版及有提交天数。" width="100%" />
+  <img src="assets/profile-overview-v2.svg" alt="saksim — Quantitative systems, secure delivery and AI engineering / 量化系统、安全交付与 AI 工程。2026-04-15 to 2026-09-05 UTC: 5,005 commits, 387 PRs opened, 86 Releases, 143 of 144 days with commits / 提交、创建 PR、发版及有提交天数。" width="100%" />
 </p>
 
 <p align="center">
@@ -89,7 +89,7 @@ Each repository is assigned to one primary domain for counting; engineering prac
 | **5,005** | **4,659** | **387 / 335** | **86** | **143 / 144** |
 
 <p align="center">
-  <img src="assets/monthly-activity.svg" alt="Monthly activity / 月度活动：非合并提交日均 12.44、8.77、29.40、27.74、61.06、110.60；创建 PR 8、11、113、41、95、119；Release 0、4、34、16、28、4。April and September are partial months / 4 月和 9 月为部分月份。" width="100%" />
+  <img src="assets/monthly-activity-v2.svg" alt="Monthly activity / 月度活动：非合并提交日均 12.44、8.77、29.40、27.74、61.06、110.60；创建 PR 8、11、113、41、95、119；Release 0、4、34、16、28、4。April and September are partial months / 4 月和 9 月为部分月份。" width="100%" />
 </p>
 
 <details>
