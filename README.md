@@ -19,7 +19,7 @@
 
 ## 01 / What I build · 能力与项目
 
-| Domain / 方向 | Scope & selected work / 能力与代表项目 | Non-merge / Releases<br>非合并提交 / 发版 |
+| Domain / 方向 | Scope & selected work / 能力与代表项目 | Commits¹ / Releases<br>提交¹ / 发版 |
 | --- | --- | ---: |
 | **Code protection**<br>加密解密与授权 | Encrypt / restore · Protected packages · License renewal<br>加密恢复 · 制品保护 · 授权续期<br>Private tools / 私有工具 | **797 / 22** |
 | **Quantitative visualization**<br>量化分析与可视化 | Forecasts · Risk views · Backtests · Traceable runs<br>预测 · 风险视图 · 回测 · 运行追溯<br>Private analytical terminal / 私有量化终端 | **810 / 7** |
@@ -28,7 +28,7 @@
 | **AI workflows & tooling**<br>AI 工作流与开发工具 | [Prompt Workflow](https://github.com/saksim/prompt_workflow) **v1.0.0**<br>[Omni Skill Pipeline](https://github.com/saksim/omni_skill_pipeline) **7 internal releases / 内部版本**<br>[Python assistant / 编程助手](https://github.com/saksim/claude-code-python) · [Code Abyss](https://github.com/saksim/code-abyss) contributions / 贡献<br>Private gateway / 私有网关 | **302 / 9** |
 | **Interactive products**<br>交互产品与业务原型 | Legal workbench · Shared spaces · Private AI<br>法律工作台 · 双人空间 · 私人 AI<br>[Law Helper](https://github.com/saksim/law_helper/tree/dev) **prototype / 原型** · Private products / 私有产品 | **156 / 0** |
 
-Counts cover **2026-04-15—2026-09-05 UTC**; releases include internal and prerelease versions. / 统计区间同下，发版包含内部版本及预发布。
+¹ Non-merge commits / 非合并提交。**2026-04-15—2026-09-05 UTC** · Releases include internal / prerelease versions / 发版含内部版本及预发布。
 
 <details>
 <summary>Activity allocation · 查看活动分布</summary>
